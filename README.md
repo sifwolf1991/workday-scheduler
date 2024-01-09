@@ -101,10 +101,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## 9. Authors and acknowledgment
 
 The author acknowledges and credits those who have contributed to this project, including:
-•	Provided Starter Code
-•	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC
-•	Chee Ho Tai
-•	Pranita Shrestha
+* Provided Starter Code
+* https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC
+* Chee Ho Tai
+* Pranita Shrestha
 
 ## 10. License
 
