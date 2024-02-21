@@ -48,7 +48,7 @@ https://github.com/sifwolf1991
 
 Scheduler App URL:
 
-https://sifwolf1991.github.io/workday-scheduler
+https://sifzerda.github.io/workday-scheduler
 
 The HTML, CSS and JS code can be accessed through a code editor such as Visual Code Studio. 
 
