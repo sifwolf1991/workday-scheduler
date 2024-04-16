@@ -44,7 +44,7 @@ The website is deployed over GitHub. Access the app at the URLS:
 
 GitHub repository URL:
 
-https://github.com/sifwolf1991
+https://github.com/sifzerda
 
 Scheduler App URL:
 
