@@ -44,7 +44,7 @@ The website is deployed over GitHub. Access the app at the URLS:
 
 GitHub repository URL:
 
-https://github.com/sifzerda
+[https://github.com/sifzerda](https://github.com/sifzerda/workday-scheduler)
 
 Scheduler App URL:
 
